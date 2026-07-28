@@ -1,5 +1,5 @@
 <h1 align="center">Olá, seja Bem-vindo ao meu GitHub!</h1>
-<h3 align="center">Desenvolvedor(a) Web | Construindo soluções digitais eficientes e escaláveis</h3>
+<h3 align="center">Desenvolvedor(a) Web | JavaScript | React | Node.js | TypeScript |</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
