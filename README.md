@@ -40,13 +40,9 @@
 
 ### Estatísticas do GitHub:
 
-<p align="center">
 [![Patrick Trindade GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickttrindade)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-<p align="center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickttrindade)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 ---
 
