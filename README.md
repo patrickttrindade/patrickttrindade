@@ -60,7 +60,7 @@
   <a href="https://twitter.com/seu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seu-usuario/](https://www.instagram.com/patricktrindade7" target="_blank">
+  <a href="https://www.instagram.com/patricktrindade7/]" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
