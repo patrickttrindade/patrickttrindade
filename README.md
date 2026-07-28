@@ -41,12 +41,11 @@
 ### Estatísticas do GitHub:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patrickttrindade&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickttrindade&layout=compact&hide_border=true" />
+[![Patrick Trindade GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickttrindade)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickttrindade&hide_border=true" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickttrindade)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
